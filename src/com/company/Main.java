@@ -16,3 +16,15 @@ public class Main {
 
     }
 }
+
+/*
+Output:
+0
+chs.6296
+chs.6296
+2
+2
+A.266755
+3
+3
+ */
